@@ -1,0 +1,16 @@
+.save-detail {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  padding: 15px;
+  color: white;
+  border-radius: 5px;
+  border-color: green;
+}
+h1 {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.formHeadingSetting{
+  text-align: center;
+}

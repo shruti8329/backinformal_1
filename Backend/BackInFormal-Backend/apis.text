@@ -1,0 +1,11 @@
+Users Apis
+Login
+http://localhost:8090/users/login
+
+SIGN UP
+http://localhost:8090/users/new-user
+
+SETTING-MASTER
+Post
+/apiClient/settings/new-setting
+

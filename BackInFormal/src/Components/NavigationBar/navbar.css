@@ -1,0 +1,58 @@
+.navbarDiv{
+    /* border: 1px solid black; */
+    padding-top: 7px;
+    padding-left: 10px;
+    height: 100px;
+    top: 0;
+}
+.navbarDiv button{
+    width: 100%;
+}
+.navCreateInvoiceBtn{
+    background-color: rgb(17, 211, 17);
+    border: none;
+    border-radius: 3px;
+    margin-left: 8px;
+}
+.navCreateInvoiceBtn:hover{
+    background-color: rgb(42, 133, 42);
+}
+.navBusinessSettingBtn{
+    background-color: #5093db;
+    border: none;
+    border-radius: 3px;
+    margin-left: 8px;
+}
+
+
+
+.navListInvoiceBtn{
+    background-color: rgb(28, 194, 216);
+    border: none;
+    border-radius: 3px;
+    margin-left: 8px;
+}
+.navListInvoiceBtn:hover{
+    background-color: rgb(41, 164, 180);
+
+}
+
+.navLogoutBtn{
+    background-color: rgb(197, 40, 40);
+    border: none;
+    border-radius: 3px;
+    margin-left: 8px;
+}
+.navLogoutBtn:hover{
+    background-color: rgb(150, 27, 27);
+
+}
+.logo{
+    height: 92px;
+    margin-top: 5px;
+    /* margin-left: 95px; */
+     
+}
+.bizzTitleInNavBar{
+    /* margin-left: 50px; */
+}

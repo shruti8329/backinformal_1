@@ -1,0 +1,26 @@
+.table-container {
+    margin: 20px;
+    overflow: hidden; /* Hide overflow to prevent horizontal scroll */
+}
+
+.table-container .table {
+    width: 100%; /* Make the table width 100% of the container */
+    table-layout: fixed; /* Fix table layout to ensure columns are evenly spaced */
+}
+
+.table-container .table input {
+    width: 100%; /* Make input fields fit within table cells */
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+    /* background-color: #6060f1; */
+}
+.tableOfInvoiceItem input{
+    border: none;
+    outline: none;
+    
+}
+.addRowBtn{
+    height: 35px;
+    border-radius: 4px;
+    width: 140px;
+    margin-bottom: 18px;
+}

@@ -1,0 +1,51 @@
+.imgFieldInLOgin{
+  /* border: 1px solid black; */
+  background-image: url('../../assets/login-bg.png');
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.formFieldInLogin{
+  background-color: #0f2d51;
+  height: 100vh;
+}
+.loginPageHOme{
+  overflow: hidden;
+}
+.loginFormInLOginPage{
+  margin-top: 100px;
+}
+.formGRoup{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+.loginFormInLOginPage label{
+  color: white;
+  margin-left: 55px;
+  margin-bottom: 6px;
+  margin-top: 17px;
+}
+.loginFormInLOginPage input{
+  width: 75%;
+  color: white;
+  border-radius: 7px;
+  border: 0.1px solid white;
+  outline: none;padding: 4px;
+  background-color: #284263;
+}
+.LoginBtnInLoginPage{
+  margin-left: 55px;
+  margin-top: 12px;
+  width: 90px;
+  background-color: #db634a;
+  border: none;
+}
+.LoginBtnInLoginPage:hover{
+  background-color: #e23f1f;
+}
+.ForgotPasSpan{
+  color: white;
+  margin-left: 118px;
+  display: inline;
+}
